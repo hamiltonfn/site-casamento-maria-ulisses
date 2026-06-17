@@ -13,7 +13,7 @@ Galeria de fotos interativa com upload, visualização em lightbox e exclusão c
 4. Acesse: `http://localhost:5000`
 
 ## Senha padrão para excluir
-`socorro123` (altere no código)
+`maria123` (altere no código)
 
 ## Personalização
 - Nomes, data e mensagens estão no template HTML dentro de `app.py`.
